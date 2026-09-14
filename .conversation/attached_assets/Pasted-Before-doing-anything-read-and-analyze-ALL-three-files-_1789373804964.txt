@@ -1,0 +1,380 @@
+Before doing anything, read and analyze ALL three files I uploaded:
+
+1. tajseer-discovery.zip
+2. TAJSEER-MASTER-CONTEXT.md
+3. REPLIT_HANDOFF.md
+
+Extract and inspect the ZIP contents as needed.
+
+Treat TAJSEER-MASTER-CONTEXT.md as the primary source of truth.
+Use the discovery package for supporting content, brand assets, original
+Arabic/English content, and visual references.
+
+IMPORTANT:
+DO NOT start building the website yet.
+DO NOT generate React code yet.
+DO NOT create pages yet.
+DO NOT modify the uploaded assets yet.
+
+We are now entering the CREATIVE DIRECTION phase.
+
+--------------------------------------------------
+THE GOAL
+--------------------------------------------------
+
+We want to completely reinvent Tajseer's website.
+
+This is NOT a normal corporate website redesign.
+
+We want an exceptionally premium, cinematic, immersive and memorable
+digital experience — the kind of experience associated with high-end
+interactive / Awwwards-level websites.
+
+The website should visually communicate the intersection of:
+
+EDUCATION
++
+TECHNOLOGY
++
+KNOWLEDGE
++
+INTERACTION
++
+FUTURE LEARNING
+
+Tajseer's existing website should be treated as a BUSINESS AND BRAND
+SOURCE, NOT as a visual template.
+
+Do not copy:
+- its layout
+- its sections
+- its cards
+- its hero
+- its navigation style
+- its animations
+- its page composition
+
+Preserve Tajseer.
+Do not preserve the old website.
+
+--------------------------------------------------
+3D / IMMERSIVE AMBITION
+--------------------------------------------------
+
+We are specifically interested in exploring a high-end 3D experience.
+
+Think in terms of possibilities such as:
+
+- cinematic 3D environments
+- WebGL
+- Three.js / React Three Fiber
+- scroll-controlled storytelling
+- camera movement through scenes
+- depth and spatial composition
+- interactive objects
+- particles where meaningful
+- lighting and materials
+- procedural motion
+- educational objects
+- abstract knowledge visualization
+- immersive transitions
+- spatial typography
+- sophisticated micro-interactions
+- seamless page/scene transitions
+
+BUT:
+
+Do not add 3D simply for decoration.
+
+Every major visual idea should relate to Tajseer's actual identity,
+services or educational purpose.
+
+Avoid the typical AI-generated website look:
+
+- random floating spheres
+- meaningless particles
+- excessive glassmorphism
+- purple AI gradients
+- generic SaaS cards
+- generic futuristic dashboards
+- meaningless neon objects
+- excessive text animations
+
+We want something distinctive to TAJSEER.
+
+--------------------------------------------------
+TAJSEER SERVICES
+--------------------------------------------------
+
+Pay particular attention to the five actual service areas documented
+in the Master Context.
+
+Think about whether those services could become part of the visual
+storytelling.
+
+For example, the experience could potentially evolve from:
+
+knowledge
+→ digital content
+→ interaction
+→ STEM
+→ immersive learning
+→ transformation
+
+This is ONLY an example.
+
+Do not automatically use this sequence.
+
+Develop a stronger concept if you find one.
+
+--------------------------------------------------
+CREATIVE FREEDOM
+--------------------------------------------------
+
+You have significant creative freedom.
+
+You may rethink:
+
+- navigation
+- homepage composition
+- page structure
+- storytelling
+- content sequencing
+- spatial design
+- interactions
+- visual metaphors
+- transitions
+- 3D environments
+- typography composition
+- service presentation
+
+However:
+
+DO NOT invent Tajseer business information.
+
+Do not invent:
+- clients
+- projects
+- partnerships
+- awards
+- statistics
+- testimonials
+- technologies or capabilities
+
+Follow the factual constraints in TAJSEER-MASTER-CONTEXT.md.
+
+--------------------------------------------------
+BILINGUAL EXPERIENCE
+--------------------------------------------------
+
+The website must eventually work exceptionally well in:
+
+Arabic — RTL
+English — LTR
+
+Do not treat Arabic as an afterthought.
+
+Think about how the spatial experience, typography, navigation and
+motion can work naturally in both directions.
+
+--------------------------------------------------
+PERFORMANCE
+--------------------------------------------------
+
+The final experience should LOOK extremely high-end but should still
+be engineered for a real production website.
+
+Later implementation should consider:
+
+- desktop
+- mobile
+- responsive behavior
+- GPU performance
+- lazy loading
+- optimized 3D assets
+- reduced motion
+- graceful fallbacks
+- accessibility
+- SEO
+- loading experience
+
+Do not solve these technically yet.
+
+Just consider them while defining the creative direction.
+
+--------------------------------------------------
+YOUR TASK NOW
+--------------------------------------------------
+
+Create THREE genuinely different creative directions for Tajseer.
+
+Do NOT give me three minor variations of the same design.
+
+For each direction provide:
+
+1. CONCEPT NAME
+
+Give it a strong memorable name.
+
+2. CORE IDEA
+
+Explain the central creative metaphor.
+
+3. USER JOURNEY
+
+Describe what the visitor experiences from entering the website until
+the main CTA.
+
+4. HERO EXPERIENCE
+
+Describe exactly what happens when the website first loads.
+
+What does the visitor see?
+
+What is the main 3D object/environment?
+
+How does it move?
+
+How does the Tajseer identity appear?
+
+What happens when the user begins scrolling?
+
+5. 3D WORLD / VISUAL SYSTEM
+
+Explain:
+
+- environment
+- objects
+- materials
+- lighting
+- depth
+- camera behavior
+- animation philosophy
+- interaction behavior
+
+6. SCROLL STORYTELLING
+
+Describe the major visual transitions as the user scrolls.
+
+7. SERVICES EXPERIENCE
+
+Explain how Tajseer's five services become part of the experience.
+
+Avoid simply displaying five cards.
+
+8. ABOUT / MISSION / VISION
+
+Explain how company information can be integrated without breaking the
+immersive experience.
+
+9. VISUAL LANGUAGE
+
+Define:
+
+- typography character
+- composition
+- imagery
+- geometry
+- color behavior
+- whitespace
+- contrast
+- visual rhythm
+
+Respect Tajseer's recognizable blue/teal identity but feel free to
+evolve its application dramatically.
+
+10. MOTION LANGUAGE
+
+Define the character of movement.
+
+Examples:
+
+precise
+fluid
+scientific
+organic
+cinematic
+responsive
+educational
+
+Do not just list adjectives.
+Explain how motion behaves.
+
+11. NAVIGATION
+
+Propose an appropriate navigation experience.
+
+12. ARABIC EXPERIENCE
+
+Explain specifically how the concept works in RTL.
+
+13. MOBILE EXPERIENCE
+
+Explain how the concept gracefully transforms on mobile.
+
+Do not assume desktop 3D can simply be scaled down.
+
+14. SIGNATURE MOMENT
+
+Every concept must contain ONE unforgettable interaction or visual
+moment that could become the signature of the Tajseer website.
+
+15. TECHNICAL COMPLEXITY
+
+Rate:
+
+3D complexity: /10
+Animation complexity: /10
+Performance risk: /10
+Mobile complexity: /10
+
+Explain why.
+
+16. WHY THIS FITS TAJSEER
+
+Connect the creative direction directly to the company information and
+services in the supplied source material.
+
+--------------------------------------------------
+AFTER THE THREE CONCEPTS
+--------------------------------------------------
+
+Create a comparison table:
+
+Concept
+Visual Impact
+Brand Fit
+3D Potential
+Storytelling
+Arabic/RTL
+Mobile
+Performance
+Uniqueness
+Development Complexity
+
+Then recommend ONE concept.
+
+Explain why it has the strongest potential to become Tajseer's new
+digital identity.
+
+You may also recommend combining specific elements from another concept
+if there is a compelling reason.
+
+--------------------------------------------------
+IMPORTANT FINAL INSTRUCTION
+--------------------------------------------------
+
+STOP after presenting the creative directions.
+
+DO NOT BUILD ANYTHING.
+
+DO NOT create the project structure.
+
+DO NOT install packages.
+
+DO NOT generate code.
+
+DO NOT create mockups yet.
+
+I want to review and approve the creative direction before
+implementation begins.

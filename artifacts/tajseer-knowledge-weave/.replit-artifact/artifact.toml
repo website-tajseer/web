@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Tajseer Knowledge Weave"
+description = "A cinematic bilingual website for Tajseer, presenting its five educational technology services through an interactive Knowledge Weave experience with accessible fallbacks and RTL support."
+version = "1.0.0"
+id = "artifacts/tajseer-knowledge-weave"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18216
+
+[services.development]
+run = "pnpm --filter @workspace/tajseer-knowledge-weave run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/tajseer-knowledge-weave", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/tajseer-knowledge-weave/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18216"
+BASE_PATH = "/"

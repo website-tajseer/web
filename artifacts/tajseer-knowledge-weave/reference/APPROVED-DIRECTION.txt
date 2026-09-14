@@ -1,0 +1,570 @@
+APPROVED CREATIVE DIRECTION:
+
+Proceed with Direction 01 — The Knowledge Weave.
+
+I approve The Knowledge Weave as the primary creative direction.
+
+Also incorporate ONLY these specific strengths from the other concepts:
+
+FROM THE CURRICULUM FOLD:
+- disciplined bilingual typography
+- excellent Arabic/RTL composition
+- transformations should explain content, not exist only for decoration
+
+FROM THE LEARNING OBSERVATORY:
+- cinematic pacing
+- quiet orientation moments
+- visual pauses between immersive sequences
+
+Do NOT merge the three concepts visually.
+
+The Knowledge Weave must remain the single dominant creative metaphor.
+
+We are now authorizing IMPLEMENTATION.
+
+--------------------------------------------------
+QUALITY TARGET
+--------------------------------------------------
+
+This must NOT look like a normal corporate website with a Three.js
+background added behind it.
+
+The immersive system should be fundamental to the experience.
+
+Target quality:
+
+- premium
+- cinematic
+- highly polished
+- spatial
+- interactive
+- memorable
+- production-quality
+- Awwwards-level ambition
+
+Avoid anything that looks:
+
+- template-generated
+- generic SaaS
+- generic AI website
+- cheap futuristic
+- overly neon
+- excessively glassmorphic
+- like random particles behind HTML sections
+
+The result should feel custom-built specifically for Tajseer.
+
+--------------------------------------------------
+IMPLEMENTATION STRATEGY
+--------------------------------------------------
+
+First establish a clean production architecture.
+
+Use an appropriate modern React-based stack.
+
+For the immersive layer, use technologies appropriate to the approved
+concept, such as:
+
+- Three.js
+- React Three Fiber
+- Drei
+- GSAP / ScrollTrigger where appropriate
+
+Choose the exact dependencies based on implementation quality and
+performance.
+
+Do not introduce libraries unnecessarily.
+
+The 3D canvas must integrate with the content experience rather than
+operate as an unrelated background.
+
+--------------------------------------------------
+BUILD THE KNOWLEDGE WEAVE
+--------------------------------------------------
+
+Create the central visual system:
+
+Five distinct but visually related strands.
+
+Each strand represents one actual Tajseer service:
+
+1. Interactive Multimedia
+2. E-learning Course Development
+3. STEM Methodology
+4. AR and VR Environments
+5. Training and Consulting
+
+The strands begin as separate capabilities.
+
+Throughout the experience they:
+
+- appear
+- gain structure
+- respond to progression
+- cross paths
+- interact
+- align
+- eventually form a coherent visual system
+
+Do NOT make them simple glowing lines.
+
+They should have:
+
+- dimensionality
+- material character
+- depth
+- controlled lighting
+- tension
+- meaningful movement
+- different behaviors corresponding to their service
+
+--------------------------------------------------
+HERO
+--------------------------------------------------
+
+Make the opening exceptional.
+
+Initial state:
+
+A nearly dark deep-navy environment.
+
+Begin with restraint.
+
+One controlled signal appears.
+
+Then another.
+
+Connections begin forming.
+
+Gradually reveal the Knowledge Weave.
+
+Do not reveal everything immediately.
+
+The Tajseer logo must appear using the original supplied artwork.
+
+Never:
+- redraw it
+- distort it
+- mirror it
+- recreate it with text
+
+The user must understand Tajseer and its educational purpose BEFORE the
+3D spectacle becomes dominant.
+
+Use real HTML for important text.
+
+Do not bake important text into WebGL.
+
+--------------------------------------------------
+SCROLL EXPERIENCE
+--------------------------------------------------
+
+Build a sophisticated scroll-controlled narrative.
+
+The experience should evolve through meaningful states rather than
+simply moving objects upward.
+
+Suggested conceptual progression:
+
+Identity
+↓
+Interactive learning
+↓
+Content structure
+↓
+STEM
+↓
+Immersive learning
+↓
+Guidance
+↓
+Tajseer
+↓
+Contact
+
+This sequence may be refined if necessary, but remain faithful to the
+approved Knowledge Weave direction.
+
+Camera movement should be:
+
+- smooth
+- deliberate
+- restrained
+- cinematic
+
+Never create uncontrolled spinning or disorienting movement.
+
+The visitor should always understand where they are.
+
+--------------------------------------------------
+SERVICE CHAPTERS
+--------------------------------------------------
+
+Do NOT create a standard grid of five service cards.
+
+Each service should become a chapter in the Knowledge Weave.
+
+INTERACTIVE MULTIMEDIA
+
+The strand can express:
+- visual frames
+- interface fragments
+- waveform behavior
+- animation
+- multimedia
+
+E-LEARNING COURSE DEVELOPMENT
+
+The strand can become:
+- structured
+- modular
+- layered
+- composed of learning units
+
+STEM
+
+Allow the strand to develop:
+- branching logic
+- connected geometry
+- modular relationships
+- structural transformation
+
+AR / VR
+
+This should be one of the strongest spatial moments.
+
+Allow the strand to move through a dimensional transition or portal
+where depth and space become dramatically more apparent.
+
+Do NOT present an invented Tajseer product or VR application.
+
+TRAINING & CONSULTING
+
+Use a calmer guiding behavior.
+
+This strand should visually organize or orient other elements rather
+than simply becoming another visual effect.
+
+--------------------------------------------------
+SIGNATURE MOMENT
+--------------------------------------------------
+
+The signature moment is critical.
+
+After experiencing the five capabilities, allow the strands to begin
+aligning.
+
+The visitor should gradually realize that the previously independent
+systems are becoming one coherent structure.
+
+At the culmination:
+
+The Tajseer symbol remains visually stable.
+
+The surrounding Knowledge Weave resolves around it.
+
+Make this moment:
+
+- elegant
+- controlled
+- cinematic
+- memorable
+
+NOT explosive.
+
+No unnecessary particle explosion.
+
+No generic logo reveal.
+
+The meaning should be:
+
+different educational capabilities
+→ coherent learning experience.
+
+--------------------------------------------------
+CONTENT
+--------------------------------------------------
+
+Use TAJSEER-MASTER-CONTEXT.md as the factual authority.
+
+Use the supplied content files for Arabic and English copy.
+
+You may improve hierarchy and presentation.
+
+Do NOT fabricate:
+
+- clients
+- statistics
+- projects
+- awards
+- certifications
+- partnerships
+- testimonials
+- technologies
+- outcomes
+
+If information is unverified, omit it from the public UI.
+
+Do not expose internal labels such as:
+
+[BUSINESS INPUT REQUIRED]
+
+to website visitors.
+
+--------------------------------------------------
+ABOUT / MISSION / VISION
+--------------------------------------------------
+
+After visually intensive service chapters, create a deliberate pause.
+
+Reduce 3D activity.
+
+Give typography and content room.
+
+This should feel calm, premium and confident.
+
+Use Tajseer's company story, mission and vision from the supplied
+content.
+
+Do not turn Mission and Vision into small cards.
+
+--------------------------------------------------
+BILINGUAL EXPERIENCE
+--------------------------------------------------
+
+Arabic and English are equally important.
+
+ENGLISH:
+LTR
+
+ARABIC:
+RTL
+
+Arabic must NOT simply be English mirrored.
+
+Implement proper:
+
+- text direction
+- typography
+- spacing
+- alignment
+- navigation behavior
+- directional interaction
+
+The 3D narrative may respond subtly to reading direction where
+appropriate.
+
+Never mirror the Tajseer logo.
+
+Technical acronyms such as:
+
+AR
+VR
+STEM
+SCORM
+LMS
+CMS
+
+must remain directionally correct inside Arabic content.
+
+--------------------------------------------------
+NAVIGATION
+--------------------------------------------------
+
+Keep navigation minimal and premium.
+
+Provide:
+
+- Overview
+- Services
+- About
+- Contact
+- AR / EN
+
+Also provide an elegant chapter/progress indicator for the immersive
+journey.
+
+Navigation must remain functional independently of the 3D experience.
+
+--------------------------------------------------
+MOBILE
+--------------------------------------------------
+
+Do NOT shrink the desktop experience onto mobile.
+
+Create a dedicated mobile interpretation.
+
+On smaller devices:
+
+- simplify the weave
+- reduce simultaneous strands
+- reduce geometry
+- reduce transparency
+- shorten camera movement
+- prioritize text
+- maintain the conceptual identity
+- use 2.5D where appropriate
+
+The site must still feel premium on mobile.
+
+--------------------------------------------------
+ACCESSIBILITY / FALLBACK
+--------------------------------------------------
+
+Implement:
+
+- prefers-reduced-motion
+- keyboard accessibility
+- readable HTML content
+- semantic structure
+- appropriate contrast
+- touch support
+
+If WebGL is unavailable or performance is insufficient, provide a
+beautiful static / lightweight fallback.
+
+The website must remain understandable without the 3D layer.
+
+--------------------------------------------------
+PERFORMANCE
+--------------------------------------------------
+
+Treat performance as part of the design.
+
+Avoid:
+
+- enormous unoptimized textures
+- unnecessary geometry
+- excessive transparency
+- excessive post-processing
+- uncontrolled render loops
+
+Use:
+
+- lazy loading
+- code splitting where appropriate
+- optimized geometry
+- efficient materials
+- adaptive DPR
+- asset preloading only where justified
+
+The opening experience should not require downloading the entire site.
+
+--------------------------------------------------
+LOADING EXPERIENCE
+--------------------------------------------------
+
+Create a branded loading transition if the immersive layer requires
+initialization.
+
+Do NOT use a generic percentage loader unless it contributes to the
+concept.
+
+The loading state itself may begin the first "signal" of the Knowledge
+Weave.
+
+--------------------------------------------------
+DESIGN SYSTEM
+--------------------------------------------------
+
+Create a coherent design system derived from Tajseer's existing
+identity.
+
+Preserve recognizable blue / teal.
+
+Evolve it into a premium palette with:
+
+- deep navy spatial environments
+- controlled blue
+- teal
+- restrained cyan highlights
+- high-quality neutral reading surfaces
+
+Avoid turning every element blue.
+
+Typography must be excellent in both Arabic and English.
+
+--------------------------------------------------
+RESPONSIVE TESTING
+--------------------------------------------------
+
+Validate:
+
+Desktop
+Large desktop
+Laptop
+Tablet
+Mobile
+
+Test both:
+
+English LTR
+Arabic RTL
+
+Check:
+
+- text overflow
+- camera framing
+- scroll behavior
+- navigation
+- service progression
+- loading
+- fallback
+- reduced motion
+
+--------------------------------------------------
+IMPLEMENTATION PHASES
+--------------------------------------------------
+
+Work in this order:
+
+PHASE 1
+Project architecture, content structure, typography, routing and base
+design system.
+
+PHASE 2
+Hero + foundational Knowledge Weave prototype.
+
+PHASE 3
+Scroll choreography and five service states.
+
+PHASE 4
+Signature convergence moment.
+
+PHASE 5
+About / Mission / Vision / Contact.
+
+PHASE 6
+Arabic RTL adaptation.
+
+PHASE 7
+Mobile-specific adaptation.
+
+PHASE 8
+Performance, accessibility and fallback.
+
+PHASE 9
+Final visual polish.
+
+--------------------------------------------------
+IMPORTANT
+--------------------------------------------------
+
+You are now authorized to build.
+
+Do not stop at a wireframe.
+
+Do not produce only a design document.
+
+Do not replace the immersive concept with a normal landing page because
+it is easier.
+
+Build the actual working experience.
+
+At the same time, do not sacrifice usability or performance simply to
+maximize visual effects.
+
+If a technical compromise is necessary, preserve the CONCEPT before
+preserving a specific visual effect.
+
+Begin implementation.

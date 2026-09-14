@@ -1,6 +1,6 @@
-# [Project name]
+# Tajseer Knowledge Weave
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A bilingual, cinematic website for Tajseer that connects its five educational technology services through an interactive Knowledge Weave experience.
 
 ## Run & Operate
 
@@ -22,23 +22,37 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/tajseer-knowledge-weave/src/App.tsx` — single-page bilingual experience, service content, navigation, and weave visuals
+- `artifacts/tajseer-knowledge-weave/src/index.css` — visual system, responsive behavior, motion and reduced-motion rules
+- `artifacts/tajseer-knowledge-weave/public/assets/tajseer/` — unchanged supplied Tajseer logo, favicon, and service artwork
+- `artifacts/tajseer-knowledge-weave/reference/` — source context and approved creative direction used for the build
+- `artifacts/tajseer-knowledge-weave/.replit-artifact/artifact.toml` — artifact routing and managed web workflow
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The first build is presentation-first and frontend-only; the API server remains available for future integrations but is not required by this experience.
+- The Knowledge Weave uses SVG/CSS 2.5D geometry and live HTML text so the concept remains lightweight, accessible, and understandable without WebGL.
+- The original supplied logo artwork is used directly and is never redrawn, distorted, or mirrored; the Arabic lockup is selected in RTL mode.
+- Service content is source-backed and presented as five immersive chapters rather than a standard card grid.
+- Arabic and English share the same content model but receive independent direction, typography, navigation cues, and spacing.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Visitors can explore Tajseer’s five service areas through a scroll-linked visual narrative.
+- Visitors can switch between English LTR and Arabic RTL while preserving the same factual content and direct contact channels.
+- Visitors can jump independently to Overview, Services, About, and Contact using persistent navigation and chapter progress controls.
+- Visitors can access the published Riyadh location, telephone numbers, and email address.
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Keep the Knowledge Weave as the single dominant metaphor; do not merge it into the other rejected creative directions.
+- Preserve a premium, cinematic, spatial, custom-built feel without generic SaaS, neon, glassmorphism, or unsupported business claims.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- The published contact values and 2009 history statement come from the supplied archive and still require business confirmation before final publication.
+- Keep essential content in HTML; visual motifs and supplied service art are supporting references, not evidence of client work.
+- The artifact workflow supplies `PORT` and `BASE_PATH`; use the managed workflow rather than starting the Vite server manually.
 
 ## Pointers
 
